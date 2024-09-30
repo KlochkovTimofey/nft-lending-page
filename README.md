@@ -16,6 +16,6 @@
 
 - [Klochkov Timofey](https://github.com/KlochkovTimofey)
 
-## License
+## Лицензия
 
 Проект распространяется по лицензии MIT.
